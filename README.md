@@ -1,10 +1,6 @@
 # MAMEX: Multi-modal Adaptive Mixture of Experts for Cold-start Recommendation
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-MAMEX is a recommendation system designed for the item cold-start scenario. It uniquely integrates a Mixture of Experts (MoE) architecture to process multi-modal (visual and textual) features. This approach allows the model to learn flexibly from different data types and, crucially, to dynamically weigh the importance of each modality on an item-by-item basis, leading to more accurate recommendations.
-
----
+This is implementation for paper: Multi-modal Adaptive Mixture of Experts for Cold-start Recommendation accepted @ CIKM'25
 
 ## 📋 Table of Contents
 
